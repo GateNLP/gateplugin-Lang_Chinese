@@ -8,14 +8,14 @@
 		<groupId>uk.ac.gate</groupId>
 		<artifactId>gate-plugin-base</artifactId>
 		<!-- this should be the version of GATE you wish to build against -->
-		<version>8.5-SNAPSHOT</version>
+		<version>8.5-alpha1</version>
 		<relativePath>../../Plugin_Base/pom.xml</relativePath>
 	</parent>
 
 	<!-- this is the description of this plugin -->
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-chinese</artifactId>
-	<version>8.5-SNAPSHOT</version>
+	<version>8.5-alpha1</version>
 
 	<licenses>
 		<license>
@@ -51,13 +51,13 @@
 		<dependency>
 			<groupId>uk.ac.gate.plugins</groupId>
 			<artifactId>annie</artifactId>
-			<version>8.5-SNAPSHOT</version>
+			<version>8.5-alpha1</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
 			<groupId>uk.ac.gate.plugins</groupId>
 			<artifactId>learning</artifactId>
-			<version>8.5-SNAPSHOT</version>
+			<version>8.5-alpha1</version>
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
