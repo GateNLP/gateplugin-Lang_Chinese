@@ -30,6 +30,21 @@
 		<url>http://gate.ac.uk</url>
 	</organization>
 
+	<developers>
+		<developer>
+			<id>gate-team</id>
+			<name>GATE Team</name>
+			<email>gate-developers@lists.sourceforge.net</email>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/GateNLP/gateplugin-Lang_Chinese.git</connection>
+		<developerConnection>scm:git:git@github.com:GateNLP/gateplugin-Lang_Chinese.git</developerConnection>
+		<url>https://github.com/GateNLP/gateplugin-Lang_Chinese</url>
+	</scm>
+
+
 	<dependencies>
 		<!-- add any other libraries your plugin depends on. Any other GATE plugins 
 			you depend on at compile time should use the provided scope -->
