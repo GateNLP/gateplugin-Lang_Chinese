@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>lang-chinese</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>Language: Chinese</name>
+	<description>Support for processing Chinese documents</description>
 
 	<licenses>
 		<license>
